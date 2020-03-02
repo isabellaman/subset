@@ -1,19 +1,12 @@
 /*
- * Isabella Man
- * 1602153
- * CSE 15
- * 10/11/19
  * Prints all the k-element subsets of any n-element set, wherein 0 < k < n < 100
  */
-
-//#define _GNU_SOURCE
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
 #include <ctype.h>
 #include <string.h>
-
 
 #define MAX_SIZE 100
 
